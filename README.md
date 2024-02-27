@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kaflynn16
+- 👀 I’m interested in learning more Python programming
+- 🌱 I’m currently learning SQL and machine learning methods with Python
+- 😄 Pronouns: she/her
